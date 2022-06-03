@@ -5,6 +5,13 @@
 ## 🧠 Top Of Mind <a href="#tom" id="tom"></a>
 
 * [Architects](tom/architects.md)
+* [Vista](tom/vista.md)
+
+## topics
+
+* [Event Sourcing](topics/event-sourcing.md)
+* [CQRS](topics/cqrs.md)
+* [Latency and Throughput](topics/latency-and-throughput.md)
 
 ## How to
 
@@ -18,8 +25,8 @@
 
 ## Design Patterns
 
-* [Page 1](design-patterns/page-1.md)
+* [Design Patterns](design-patterns/design-patterns.md)
 
 ## Data Structure And Algorithms
 
-* [Page 2](data-structure-and-algorithms/page-2.md)
+* [DSA](data-structure-and-algorithms/dsa.md)
