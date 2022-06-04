@@ -101,15 +101,24 @@ What Should the System Deal With
   * [Latency](../topics/latency-and-throughput.md): how much time does it take to perform a single task.
   * [Throughput](../topics/latency-and-throughput.md): How many tasks can be performed in a given time unit.
 * Load
+  * Quantity of Work Without Crashing. Eg. In a web API, no. of concurrent requests
 * Data Volume
+  * How much data the System will accumulate over time
+  * Helps deciding Database type, Designing Queries, Storage Planning
+  * Day One Data, Annual growth of data
 * Concurrent Users
+  * How many users will be using the system simultaneously
+  *
 * SLA
+  * 99.99% Equals to \~0.88hrs downtime/year
 
 For Above, you should also take into consideration:
 
 * How much fluctuation in those number happens
 * Does it affected by external factors: Eg. Christmas, Black Friday Sales, etc.
 * Does any policy like GDPR Affect the architecture?
+
+
 
 
 

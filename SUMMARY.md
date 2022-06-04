@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What this has?](README.md)
+* [WSA Notes](README.md)
 
 ## 🧠 Top Of Mind <a href="#tom" id="tom"></a>
 
@@ -11,7 +11,13 @@
 
 * [Event Sourcing](topics/event-sourcing.md)
 * [CQRS](topics/cqrs.md)
+* [CAP](topics/cap.md)
+* [SOLID](topics/solid.md)
 * [Latency and Throughput](topics/latency-and-throughput.md)
+* [Application](topics/application.md)
+* [Tech Stack](topics/tech-stack.md)
+* [Quality](topics/quality.md)
+* [Component's Architecture](topics/components-architecture.md)
 
 ## How to
 

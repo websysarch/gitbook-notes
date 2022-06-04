@@ -17,3 +17,29 @@ How many tasks can be performed in a given time unit.
 
 * How many users can be saved in the database in a minute.
 * How many files can be read in a second.
+
+
+
+Note:
+
+* Generally throughput is increased via scaling, preferably horizonal
+* Load changes are handled via using queues and scaling.
+
+#### Example: Saving User Data
+
+|            |                               |   |
+| ---------- | ----------------------------- | - |
+| Latency    | 1 Second                      |   |
+| Throughput | Requirement: 100req/sec       |   |
+|            | Well Designed app: >100       |   |
+|            | Badly designed apps: <60      |   |
+| Load       | 500 requests without crashing |   |
+|            |                               |   |
+
+### FAQs
+
+#### Concurrent Users Vs Load
+
+* Concurrent Users - Including "Dead Times"
+* Load: Actual Requests
+
