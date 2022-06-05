@@ -1,8 +1,8 @@
 ---
-description: An Ideal full stack TODO App
+description: Comprehensive TODO App - An Architect's Approach
 ---
 
-# Yet Another Todo App
+# Todo App
 
 ### Features
 

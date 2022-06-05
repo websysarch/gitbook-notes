@@ -1,4 +1,8 @@
-# Design Patterns
+---
+description: Object Oriented Programming's Design Patterns by Gang of Four
+---
+
+# OOPs Design Patterns
 
 ### Types of Design Patterns
 

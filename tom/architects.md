@@ -98,8 +98,8 @@ What Should the System Deal With
 
 * Performance
   * Always talk in numbers
-  * [Latency](../topics/latency-and-throughput.md): how much time does it take to perform a single task.
-  * [Throughput](../topics/latency-and-throughput.md): How many tasks can be performed in a given time unit.
+  * [Latency](../architecture/performance/latency-and-throughput.md): how much time does it take to perform a single task.
+  * [Throughput](../architecture/performance/latency-and-throughput.md): How many tasks can be performed in a given time unit.
 * Load
   * Quantity of Work Without Crashing. Eg. In a web API, no. of concurrent requests
 * Data Volume

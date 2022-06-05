@@ -1,3 +1,7 @@
+---
+description: Frist Five Principles of Object Oriented Design
+---
+
 # SOLID
 
 ### Single Responsibility Principle
