@@ -70,28 +70,23 @@ Makes the code modular, flexible and easy to maintain.
 
 ### SOLID
 
-* Coined by Bob Martin in 2000
+Coined by Bob Martin in 2000
 
-#### Single Responsibility Principle
+* Single Responsibility Principle
+* Open/Closed Principle
+* Liskov Substitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle / Dependency Injection
 
-Each class, module or method should have one and only one responsibility.
+[Read more](../patterns-and-principles/oops-principles/solid.md)
 
-Eg. Logging Engine
+### Naming Conventions
 
-* What should be written?
-* Where should it be written?
+* Define naming rules of code elements
 
-#### Open/Closed Principle
+Types:
 
-#### Liskov Substitution Principle
-
-#### Interface Segregation Principle
-
-#### Dependency Inversion Principle
-
-
-
-
+* Structure (casing, underscores, etc)
 
 ### FAQs
 
