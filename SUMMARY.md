@@ -27,7 +27,7 @@
 * [Technology Stack](architecture/technology-stack.md)
 * [Concepts](architecture/concepts/README.md)
   * [Client Server Modal](architecture/concepts/client-server-modal.md)
-* [Network Protocols](architecture/network-protocols.md)
+  * [Network Protocols](architecture/concepts/network-protocols.md)
 * [Case Studies](architecture/case-studies.md)
 
 ## How to
