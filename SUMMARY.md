@@ -25,6 +25,9 @@
 * [Security](architecture/security.md)
 * [Deployment](architecture/deployment.md)
 * [Technology Stack](architecture/technology-stack.md)
+* [Concepts](architecture/concepts/README.md)
+  * [Client Server Modal](architecture/concepts/client-server-modal.md)
+* [Network Protocols](architecture/network-protocols.md)
 * [Case Studies](architecture/case-studies.md)
 
 ## How to
@@ -47,10 +50,17 @@
 ## Data Structure And Algorithms
 
 * [DSA](data-structure-and-algorithms/dsa.md)
+* [Sorting](data-structure-and-algorithms/sorting.md)
+* [String](data-structure-and-algorithms/string/README.md)
+  * [Valid Palindrome](data-structure-and-algorithms/string/valid-palindrome.md)
+  * [Longest Palindromic Substring](data-structure-and-algorithms/string/longest-palindromic-substring.md)
+  * [Longest Substring Without Repeating Characters](data-structure-and-algorithms/string/longest-substring-without-repeating-characters.md)
 
 ## Projects
 
 * [Todo App](projects/todo-app.md)
+* [Personal Pages](projects/personal-pages/README.md)
+  * [Icons](projects/personal-pages/icons.md)
 
 ## Interviews
 
