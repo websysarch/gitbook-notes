@@ -55,6 +55,9 @@
   * [Valid Palindrome](data-structure-and-algorithms/string/valid-palindrome.md)
   * [Longest Palindromic Substring](data-structure-and-algorithms/string/longest-palindromic-substring.md)
   * [Longest Substring Without Repeating Characters](data-structure-and-algorithms/string/longest-substring-without-repeating-characters.md)
+  * [Valid Anagram](data-structure-and-algorithms/string/valid-anagram.md)
+  * [Group Anagrams](data-structure-and-algorithms/string/group-anagrams.md)
+  * [Valid Parentheses](data-structure-and-algorithms/string/valid-parentheses.md)
 
 ## Projects
 
