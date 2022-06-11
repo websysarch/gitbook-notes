@@ -58,6 +58,12 @@
   * [Valid Anagram](data-structure-and-algorithms/string/valid-anagram.md)
   * [Group Anagrams](data-structure-and-algorithms/string/group-anagrams.md)
   * [Valid Parentheses](data-structure-and-algorithms/string/valid-parentheses.md)
+* [Dynamic Programming](data-structure-and-algorithms/dynamic-programming/README.md)
+  * [Climbing Stairs](data-structure-and-algorithms/dynamic-programming/climbing-stairs.md)
+  * [House Robber](data-structure-and-algorithms/dynamic-programming/house-robber.md)
+  * [Jump Game](data-structure-and-algorithms/dynamic-programming/jump-game.md)
+  * [🟠 Longest Increasing Subsequence](data-structure-and-algorithms/dynamic-programming/longest-increasing-subsequence.md)
+  * [Coin Change](data-structure-and-algorithms/dynamic-programming/coin-change.md)
 
 ## Projects
 
