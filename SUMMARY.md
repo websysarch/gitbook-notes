@@ -64,6 +64,7 @@
   * [Jump Game](data-structure-and-algorithms/dynamic-programming/jump-game.md)
   * [🟠 Longest Increasing Subsequence](data-structure-and-algorithms/dynamic-programming/longest-increasing-subsequence.md)
   * [Coin Change](data-structure-and-algorithms/dynamic-programming/coin-change.md)
+  * [Unique Paths](data-structure-and-algorithms/dynamic-programming/unique-paths.md)
 
 ## Projects
 
