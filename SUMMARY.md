@@ -65,6 +65,14 @@
   * [🟠 Longest Increasing Subsequence](data-structure-and-algorithms/dynamic-programming/longest-increasing-subsequence.md)
   * [Coin Change](data-structure-and-algorithms/dynamic-programming/coin-change.md)
   * [Unique Paths](data-structure-and-algorithms/dynamic-programming/unique-paths.md)
+* [Arrays](data-structure-and-algorithms/arrays/README.md)
+  * [Contains Duplicate](data-structure-and-algorithms/arrays/contains-duplicate.md)
+  * [Product of Array Except Self](data-structure-and-algorithms/arrays/product-of-array-except-self.md)
+  * [Container With Most Water](data-structure-and-algorithms/arrays/container-with-most-water.md)
+  * [Best Time to Buy and Sell Stock](data-structure-and-algorithms/arrays/best-time-to-buy-and-sell-stock.md)
+  * [Two Sum](data-structure-and-algorithms/arrays/two-sum.md)
+  * [Three Sum](data-structure-and-algorithms/arrays/three-sum.md)
+  * [Max Sub Array](data-structure-and-algorithms/arrays/max-sub-array.md)
 
 ## Projects
 
