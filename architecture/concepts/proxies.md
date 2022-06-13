@@ -10,7 +10,7 @@ Nginx is one of the most popular Reverse proxy server.
 
 Eg. **Load balancer, CDN, etc.**
 
-<img alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/architecture-concepts-reverse-proxy.svg" alt="Reverse Proxy" class="gitbook-drawing">
 
 For a system design, a reverse proxy can do a lot of things:
 
