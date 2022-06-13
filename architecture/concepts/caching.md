@@ -1,5 +1,28 @@
 # Caching
 
+* Write through cache
+* Write Back cache
+
+
+
+### Write through cache
+
+The request would overwrite the cache first and then the database both in the same request.
+
+
+
+### Write Back Cache
+
+The request will just update the cache. and at later time, it would be synced to the database.
+
+### Problems to take care:
+
+* If the data is immutable
+* Staleness of data
+* Invalidation of stale data
+* Partitioning of data
+* Eviction of data
+
 ### Terms
 
 #### Cache

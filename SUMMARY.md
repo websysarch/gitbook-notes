@@ -31,6 +31,7 @@
   * [Latency and Throughput](architecture/concepts/latency-and-throughput.md)
   * [Availability](architecture/concepts/availability.md)
   * [Caching](architecture/concepts/caching.md)
+  * [Proxies](architecture/concepts/proxies.md)
   * [Page 1](architecture/concepts/page-1.md)
 * [Case Studies](architecture/case-studies.md)
 

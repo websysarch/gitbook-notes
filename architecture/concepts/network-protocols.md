@@ -21,7 +21,7 @@ Transmission Control Protocol&#x20;
 
 #### **Features**
 
-<img src="../../.gitbook/assets/file.drawing (1).svg" alt="IP Packet with TCP Header and data" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing (1) (1).svg" alt="IP Packet with TCP Header and data" class="gitbook-drawing">
 
 ****
 
