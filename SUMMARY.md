@@ -32,7 +32,7 @@
   * [Availability](architecture/concepts/availability.md)
   * [Caching](architecture/concepts/caching.md)
   * [Proxies](architecture/concepts/proxies.md)
-  * [Page 1](architecture/concepts/page-1.md)
+  * [Load Balancer](architecture/concepts/load-balancer.md)
 * [Case Studies](architecture/case-studies.md)
 
 ## How to

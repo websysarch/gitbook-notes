@@ -10,7 +10,7 @@ Nginx is one of the most popular Reverse proxy server.
 
 Eg. **Load balancer, CDN, etc.**
 
-<img src="../../.gitbook/assets/file.drawing (1).svg" alt="Reverse Proxy" class="gitbook-drawing">
+<img alt="" class="gitbook-drawing">
 
 For a system design, a reverse proxy can do a lot of things:
 
@@ -27,7 +27,7 @@ Client identity is hidden from the server.
 
 Example: **VPN**
 
-<img src="../../.gitbook/assets/file.drawing (2).svg" alt="Forward Proxy" class="gitbook-drawing">
+<img src="../../.gitbook/assets/architecture-concepts-forward-proxy.svg" alt="Forward Proxy" class="gitbook-drawing">
 
 {% embed url="https://raw.githubusercontent.com/websysarch/diagrams-net/main/test.drawio" %}
 test
