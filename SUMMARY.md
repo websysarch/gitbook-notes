@@ -13,12 +13,10 @@
 * [Performance](topics/performance/README.md)
   * [Architecture Performance](topics/performance/architecture-performance.md)
   * [Understanding Performance](topics/performance/understanding-performance.md)
-  * [Latency](topics/performance/latency.md)
 
 ## Architecture
 
-* [Performance](architecture/performance/README.md)
-  * [Latency and Throughput](architecture/performance/latency-and-throughput.md)
+* [Performance](architecture/performance.md)
 * [Quality](architecture/quality.md)
 * [Scalability](architecture/scalability.md)
 * [Reliability](architecture/reliability.md)
@@ -28,6 +26,12 @@
 * [Concepts](architecture/concepts/README.md)
   * [Client Server Modal](architecture/concepts/client-server-modal.md)
   * [Network Protocols](architecture/concepts/network-protocols.md)
+  * [HTTP Status Codes](architecture/concepts/http-status-codes.md)
+  * [Storage](architecture/concepts/storage.md)
+  * [Latency and Throughput](architecture/concepts/latency-and-throughput.md)
+  * [Availability](architecture/concepts/availability.md)
+  * [Caching](architecture/concepts/caching.md)
+  * [Page 1](architecture/concepts/page-1.md)
 * [Case Studies](architecture/case-studies.md)
 
 ## How to
