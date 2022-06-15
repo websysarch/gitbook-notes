@@ -14,7 +14,7 @@ Return _the maximum amount of water a container can store_.
 
 **Notice** that you may not slant the container.
 
-![Water Container](<../../.gitbook/assets/water-container-question (1).jpeg>)
+![Water Container](../../.gitbook/assets/water-container-question.jpeg)
 
 **Example 1:**
 

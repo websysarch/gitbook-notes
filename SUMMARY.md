@@ -33,6 +33,7 @@
   * [Caching](architecture/concepts/caching.md)
   * [Proxies](architecture/concepts/proxies.md)
   * [Load Balancer](architecture/concepts/load-balancer.md)
+  * [RDBMS](architecture/concepts/rdbms.md)
 * [Case Studies](architecture/case-studies.md)
 
 ## How to
