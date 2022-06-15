@@ -62,7 +62,7 @@ For the above diagram, if we remove server E, only one request(R5), will be redi
 
 Place the powerful server multiple times on the circle.
 
-<img src="../../.gitbook/assets/file.drawing.arc-concepts-lb-server-spec-diff.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/lb-server-mgmt-on-spec-difference.svg" alt="" class="gitbook-drawing">
 
 ### Hashing
 

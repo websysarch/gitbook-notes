@@ -34,7 +34,14 @@
   * [Proxies](architecture/concepts/proxies.md)
   * [Load Balancer](architecture/concepts/load-balancer.md)
   * [RDBMS](architecture/concepts/rdbms.md)
-* [Case Studies](architecture/case-studies.md)
+* [Case Studies](architecture/case-studies/README.md)
+  * [Requirement Gathering](architecture/case-studies/requirement-gathering.md)
+  * [Components Solution](architecture/case-studies/components-solution.md)
+  * [Design Code Deployment System](architecture/case-studies/design-code-deployment-system.md)
+  * [Design AlgoExpert](architecture/case-studies/design-algoexpert.md)
+  * [Design A Stockbroker](architecture/case-studies/design-a-stockbroker.md)
+  * [Design Amazon](architecture/case-studies/design-amazon.md)
+  * [Design Reddit API](architecture/case-studies/design-reddit-api.md)
 
 ## How to
 

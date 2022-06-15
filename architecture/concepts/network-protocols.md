@@ -4,7 +4,7 @@
 
 Stands for **Internet Protocol**. Other protocol like TCP, HTTP or UDP are built on top of that.
 
-<img src="../../.gitbook/assets/file.drawing (3).svg" alt="IP Packet" class="gitbook-drawing">
+<img src="../../.gitbook/assets/ip-packet.svg" alt="IP Packet" class="gitbook-drawing">
 
 * IP Packets are made-up of Bytes and contains
   * IP Header (20-60 Bytes)
@@ -21,7 +21,7 @@ Transmission Control Protocol&#x20;
 
 #### **Features**
 
-<img src="../../.gitbook/assets/file.drawing (1) (1).svg" alt="IP Packet with TCP Header and data" class="gitbook-drawing">
+<img src="../../.gitbook/assets/ip-tcp-packet.svg" alt="IP Packet with TCP Header and data" class="gitbook-drawing">
 
 ****
 
