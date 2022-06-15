@@ -25,14 +25,20 @@ Example, Auth, Payment, Code Execution, CRUD -> These are different and should n
 
 > Do A Path Based Load Balancing
 
-#### For Access Control based on the API Path
+### For Access Control based on the API Path
 
-Approach 1:
+#### Approach 1:
 
 * It could make another API Call (ACL) to retrieve the API Calls
 
 <img src="../../.gitbook/assets/api-auth-integration.svg" alt="Auth Integration Using API" class="gitbook-drawing">
 
-Approach 2:
+#### Approach 2:
 
 * Add a Middleware / Gateway, that validates that, and then attach some information in the Requests.
+
+### Control Number of requests user could make
+
+Solution: Rate Limiting
+
+#### Tier based rate limiting

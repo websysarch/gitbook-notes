@@ -14,9 +14,11 @@ A type of reverse proxy that distributes traffic over servers.
 
 * Round Robin
 * Random Selection
-* Performance based selection
-* IP based routing (hash the IP)
-* Session key for hash
+* Performance based selection\
+  Application Server Load Aware Load Balancer
+* Hashing based
+  * IP based routing (hash the IP)
+  * Session key for hash
 * Request Path&#x20;
 
 ### DNS Load-balancing
