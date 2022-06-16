@@ -13,6 +13,12 @@
 * [Performance](topics/performance/README.md)
   * [Architecture Performance](topics/performance/architecture-performance.md)
   * [Understanding Performance](topics/performance/understanding-performance.md)
+* [Attacks](topics/attacks/README.md)
+  * [DoS](topics/attacks/dos.md)
+  * [DDoS](topics/attacks/ddos.md)
+* [Tools & Tech](topics/tools-and-tech/README.md)
+  * [Redis](topics/tools-and-tech/redis.md)
+  * [NGINX](topics/tools-and-tech/nginx.md)
 
 ## Architecture
 
@@ -39,6 +45,7 @@
   * [Key Value Store](architecture/concepts/key-value-store.md)
   * [Rate Limiting](architecture/concepts/rate-limiting.md)
   * [Global Traffic Manager](architecture/concepts/global-traffic-manager.md)
+  * [Logging And Monitoring](architecture/concepts/logging-and-monitoring.md)
   * [API Gateway](architecture/concepts/api-gateway.md)
 * [Case Studies](architecture/case-studies/README.md)
   * [Requirement Gathering](architecture/case-studies/requirement-gathering.md)
