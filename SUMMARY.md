@@ -32,6 +32,7 @@
 * [Architecture Problems](architecture/architecture-problems/README.md)
   * [C10K](architecture/architecture-problems/c10k.md)
 * [Concepts](architecture/concepts/README.md)
+  * [Distributed Systems](architecture/concepts/distributed-systems.md)
   * [Client Server Modal](architecture/concepts/client-server-modal.md)
   * [Network Protocols](architecture/concepts/network-protocols.md)
   * [HTTP Status Codes](architecture/concepts/http-status-codes.md)
@@ -76,7 +77,11 @@
 ## Data Structure And Algorithms
 
 * [DSA](data-structure-and-algorithms/dsa.md)
-* [Sorting](data-structure-and-algorithms/sorting.md)
+* [Sorting](data-structure-and-algorithms/sorting/README.md)
+  * [Bubble Sort](data-structure-and-algorithms/sorting/bubble-sort.md)
+  * [Selection Sort](data-structure-and-algorithms/sorting/selection-sort.md)
+* [Searching](data-structure-and-algorithms/searching/README.md)
+  * [Binary Search](data-structure-and-algorithms/searching/binary-search.md)
 * [String](data-structure-and-algorithms/string/README.md)
   * [Valid Palindrome](data-structure-and-algorithms/string/valid-palindrome.md)
   * [Longest Palindromic Substring](data-structure-and-algorithms/string/longest-palindromic-substring.md)
