@@ -2,7 +2,7 @@
 
 Capability to adapt to increasing demand
 
-![](../.gitbook/assets/scaling.svg)
+![](broken-reference)
 
 ### Horizontal Scaling
 

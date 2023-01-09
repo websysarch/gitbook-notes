@@ -2,13 +2,13 @@
 
 A type of reverse proxy that distributes traffic over servers.
 
-<img src="../../.gitbook/assets/architecture-concepts-load-balancer.svg" alt="Load Balanced" class="gitbook-drawing">
+<img src="broken-reference" alt="Load Balanced" class="gitbook-drawing">
 
 ####
 
 ### Multi-Layered Load balancer
 
-<img src="../../.gitbook/assets/architecture-concept-load-balancer-multi.svg" alt="" class="gitbook-drawing">
+<img src="broken-reference" alt="" class="gitbook-drawing">
 
 ### Server Selection Strategy
 
@@ -54,7 +54,7 @@ http {
 
 #### When Adding  a New Server
 
-<img src="../../.gitbook/assets/arch-concepts-load-balancer-new-server.svg" alt="" class="gitbook-drawing">
+<img src="broken-reference" alt="" class="gitbook-drawing">
 
 #### When removing a server
 
@@ -64,7 +64,7 @@ For the above diagram, if we remove server E, only one request(R5), will be redi
 
 Place the powerful server multiple times on the circle.
 
-<img src="../../.gitbook/assets/lb-server-mgmt-on-spec-difference.svg" alt="" class="gitbook-drawing">
+<img src="broken-reference" alt="" class="gitbook-drawing">
 
 ### Hashing
 

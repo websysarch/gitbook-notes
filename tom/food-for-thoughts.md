@@ -14,11 +14,11 @@ HBR Blog
 
 Technology considerations when running on a system which is constraint by its power
 
-{% file src="../.gitbook/assets/energy-efficiency.pdf" %}
+{% file src="broken-reference" %}
 Research paper for Energy efficiency
 {% endfile %}
 
-![How energy, time and memory relates](<../.gitbook/assets/Screenshot 2022-08-10 at 10.02.17 PM.png>)
+![How energy, time and memory relates](broken-reference)
 
 #### References:
 

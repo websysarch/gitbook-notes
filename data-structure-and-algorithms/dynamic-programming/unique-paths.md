@@ -16,7 +16,7 @@ The test cases are generated so that the answer will be less than or equal to `2
 
 **Example 1:**
 
-![Robote Maze](../../.gitbook/assets/robot\_maze.png)
+![Robote Maze](broken-reference)
 
 ```
 Input: m = 3, n = 7

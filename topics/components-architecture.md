@@ -52,7 +52,7 @@ DAL Layer Should:
 
 
 
-<img src="../.gitbook/assets/layer-code-flow.svg" alt="Flow of Exception" class="gitbook-drawing">
+<img src="broken-reference" alt="Flow of Exception" class="gitbook-drawing">
 
 ### Interfaces
 

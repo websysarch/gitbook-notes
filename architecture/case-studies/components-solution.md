@@ -17,7 +17,7 @@ For Multiple Region: DNS Load-balancer
 
 Based on the user region, it returns IP Address for that specific region
 
-<img src="../../.gitbook/assets/multi-region-dns-lb.svg" alt="Region Support" class="gitbook-drawing">
+<img src="broken-reference" alt="Region Support" class="gitbook-drawing">
 
 #### For independent API modules
 
@@ -31,7 +31,7 @@ Example, Auth, Payment, Code Execution, CRUD -> These are different and should n
 
 * It could make another API Call (ACL) to retrieve the API Calls
 
-<img src="../../.gitbook/assets/api-auth-integration.svg" alt="Auth Integration Using API" class="gitbook-drawing">
+<img src="broken-reference" alt="Auth Integration Using API" class="gitbook-drawing">
 
 #### Approach 2:
 
