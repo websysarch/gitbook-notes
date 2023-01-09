@@ -5,6 +5,10 @@
 ## 🧠 Top Of Mind <a href="#tom" id="tom"></a>
 
 * [Architects](tom/architects.md)
+* [Page 1](tom/page-1.md)
+* [Food For Thoughts](tom/food-for-thoughts.md)
+* [Observations as a Leadership Mentee](tom/observations-as-a-leadership-mentee.md)
+* [Per](tom/per.md)
 * [Food for thought](tom/food-for-thought.md)
 
 ## 🤝 Management
