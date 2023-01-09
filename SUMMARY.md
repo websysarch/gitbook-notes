@@ -5,20 +5,12 @@
 ## 🧠 Top Of Mind <a href="#tom" id="tom"></a>
 
 * [Architects](tom/architects.md)
+* [Food for thought](tom/food-for-thought.md)
 
-## topics
+## 🤝 Management
 
-* [Application](topics/application.md)
-* [Component's Architecture](topics/components-architecture.md)
-* [Performance](topics/performance/README.md)
-  * [Architecture Performance](topics/performance/architecture-performance.md)
-  * [Understanding Performance](topics/performance/understanding-performance.md)
-* [Attacks](topics/attacks/README.md)
-  * [DoS](topics/attacks/dos.md)
-  * [DDoS](topics/attacks/ddos.md)
-* [Tools & Tech](topics/tools-and-tech/README.md)
-  * [Redis](topics/tools-and-tech/redis.md)
-  * [NGINX](topics/tools-and-tech/nginx.md)
+* [Qualities](management/qualities.md)
+* [Launching a new company](management/launching-a-new-company.md)
 
 ## Architecture
 
@@ -56,6 +48,20 @@
   * [Design A Stockbroker](architecture/case-studies/design-a-stockbroker.md)
   * [Design Amazon](architecture/case-studies/design-amazon.md)
   * [Design Reddit API](architecture/case-studies/design-reddit-api.md)
+
+## topics
+
+* [Application](topics/application.md)
+* [Component's Architecture](topics/components-architecture.md)
+* [Performance](topics/performance/README.md)
+  * [Architecture Performance](topics/performance/architecture-performance.md)
+  * [Understanding Performance](topics/performance/understanding-performance.md)
+* [Attacks](topics/attacks/README.md)
+  * [DoS](topics/attacks/dos.md)
+  * [DDoS](topics/attacks/ddos.md)
+* [Tools & Tech](topics/tools-and-tech/README.md)
+  * [Redis](topics/tools-and-tech/redis.md)
+  * [NGINX](topics/tools-and-tech/nginx.md)
 
 ## How to
 
@@ -115,3 +121,7 @@
 
 * [Experience](interviews/experience/README.md)
   * [Vista](interviews/experience/vista.md)
+
+## 📖 Courses
+
+* [Storytelling](courses/storytelling.md)
