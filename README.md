@@ -14,4 +14,11 @@ description: Raw Notes for my future references
 
 Gitbook has markdown based editor which is easier as a developer and it sync content with github, and hence I own the content and in future I could switch to whatever I like.
 
-Writing blogs take time and Thi&#x20;
+```mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```

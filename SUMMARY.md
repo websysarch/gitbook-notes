@@ -18,7 +18,8 @@
 
 ## Architecture
 
-* [Performance](architecture/performance.md)
+* [Performance](architecture/performance/README.md)
+  * [V8: JS Engine](architecture/performance/v8-js-engine.md)
 * [Quality](architecture/quality.md)
 * [Scalability](architecture/scalability.md)
 * [Reliability](architecture/reliability.md)
@@ -79,6 +80,8 @@
   * [SOLID](patterns-and-principles/oops-principles/solid.md)
 * [OOPs Design Patterns](patterns-and-principles/oops-design-patterns.md)
 * [Architecture Patterns](patterns-and-principles/architecture-patterns/README.md)
+  * [Event Loops](patterns-and-principles/architecture-patterns/event-loops.md)
+  * [Message Queues](patterns-and-principles/architecture-patterns/message-queues.md)
   * [CQRS](patterns-and-principles/architecture-patterns/cqrs.md)
   * [Event Sourcing](patterns-and-principles/architecture-patterns/event-sourcing.md)
 * [Architecture Principles](patterns-and-principles/architecture-principles/README.md)
