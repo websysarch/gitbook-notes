@@ -1,0 +1,4 @@
+# Observation
+
+* Storytelling is everywhere
+*
