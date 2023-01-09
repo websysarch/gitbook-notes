@@ -18,7 +18,7 @@
 
 ## Architecture
 
-* [Performance](architecture/performance/README.md)
+* [Performance](architecture/performance.md)
   * [V8: JS Engine](architecture/performance/v8-js-engine.md)
 * [Quality](architecture/quality.md)
 * [Scalability](architecture/scalability.md)
